@@ -56,8 +56,7 @@ The application allows users to upload a plant leaf image and instantly receive 
 
 ## 🌿 AI Disease Detection Demo
 
-<img src= "1778005371529.jpg"width="100%"/>
-
+<img src="./1778005371529.jpg" width="100%"/>
 </div>
 
 ---
